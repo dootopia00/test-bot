@@ -5,7 +5,7 @@ test-bot API/CLIENT
 ## Getting Started
 First, 
 npm install
-# or
+or
 yarn
 
 Second,

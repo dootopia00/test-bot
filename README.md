@@ -1,4 +1,4 @@
-## Getting Architecture
+## Explanation
 
 test-bot API/CLIENT
 
